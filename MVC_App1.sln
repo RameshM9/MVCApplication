@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_App1", "MVC_App1\MVC_Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model-View-Controller", "Model-View-Controller\Model-View-Controller.csproj", "{DFCD521A-3F48-4F8F-A8F5-C8A2C340F1A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCodeFirst", "EFCodeFirst\EFCodeFirst.csproj", "{56153499-4EF7-4C6B-A239-E472AFD36927}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DFCD521A-3F48-4F8F-A8F5-C8A2C340F1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFCD521A-3F48-4F8F-A8F5-C8A2C340F1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFCD521A-3F48-4F8F-A8F5-C8A2C340F1A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56153499-4EF7-4C6B-A239-E472AFD36927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56153499-4EF7-4C6B-A239-E472AFD36927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56153499-4EF7-4C6B-A239-E472AFD36927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56153499-4EF7-4C6B-A239-E472AFD36927}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
